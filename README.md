@@ -12,11 +12,11 @@ This project will study the connectedness between high-speed train stations in J
 
 **Full Eigenvalue Matrix**
 
-![Laplacian](eigenvalues.png)
+![EigenValue](eigenvalues.png)
 
 **Full Eigenvector Matrix**
 
-![Laplacian](eigenvectors.png)
+![EigenVector](eigenvectors.png)
 
 
 
